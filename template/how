@@ -1,0 +1,11 @@
+linux :
+sh build.sh
+
+./build/tp ./data/BoomBox.gltf
+
+wsl :
+
+dans le dossier build
+make -j 12
+
+./tp ../data/BoomBox.gltf

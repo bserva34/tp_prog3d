@@ -1,0 +1,3 @@
+/mnt/c/Users/33652/Desktop/master_imagine/Prog3d/prog-3D-2023/template/build/CMakeFiles/tp.dir
+/mnt/c/Users/33652/Desktop/master_imagine/Prog3d/prog-3D-2023/template/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/33652/Desktop/master_imagine/Prog3d/prog-3D-2023/template/build/CMakeFiles/rebuild_cache.dir
